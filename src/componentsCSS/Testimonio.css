@@ -1,0 +1,30 @@
+.img-testimonio {
+    height: 70%;
+    width: auto;
+}
+
+.contenedor-testimonio {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    background-color: #fff;
+}
+
+.texto-testimonio {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.nombre-monio {
+    font-size: 1.3rem;
+}
+
+.cargo-monio {
+    font-size: 1.3rem;
+}
+
+.texto-monio {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
